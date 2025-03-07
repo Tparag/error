@@ -1,9 +1,9 @@
 {
-    "allow": [
+    "allow": {
       "parag100",
       "bhavik007"
-    ],
-    "blocked": [
+    },
+    "blocked": {
       "3jpf0jrl"
-    ],
+    },
   }
