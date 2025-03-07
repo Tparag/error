@@ -1,9 +1,9 @@
 {
-    "allow_tokens": [
+    "allow": [
       "parag100",
       "bhavik007"
     ],
-    "blocked_tokens": [
+    "blocked": [
       "3jpf0jrl"
     ],
   }
