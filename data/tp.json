@@ -2,5 +2,8 @@
     "allow_tokens": [
       "parag100",
       "bhavik007"
-    ]
+    ],
+    "blocked_tokens": [
+      "3jpf0jrl"
+    ],
   }
