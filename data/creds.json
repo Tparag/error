@@ -1,4 +1,4 @@
 {
     "MANUAL_CRED_FILE": "creds02",
-    "excludedFiles": []
+    "excludedFiles": ["123456","789000"]
 }
